@@ -10,7 +10,7 @@ This only supports ESP8266 modules because of the brzo_i2c which is implemented 
 SC16IS752_ESP8266 requires the brzo_i2c library for i2c communication using the ESP8266 board. It can be found [here](https://github.com/pasko-zh/brzo_i2c) with full installation instructions.
 
 ## Installation
-Installation of this library can be done by first pulling from Bitbucket, and then placing in the lib folder of your project. Then add #include "SC16IS752_ESP8266.h" near the start of your main project file to include its definitions and functions for your use.
+Installation of this library can be done by first pulling from github, and then placing in the lib folder of your project. Then add #include "SC16IS752_ESP8266.h" near the start of your main project file to include its definitions and functions for your use.
 
 # Usage
 Below is an example project to get an ESP8266 to communicate with an SC16IS752 expansion board using i2c with appropriate pull ups and pull downs in order to turn on and off an LED connected to GPIO0 every 2 seconds.
