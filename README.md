@@ -63,4 +63,5 @@ The SC16IS752_ESP8266.cpp file in src contains descriptions for each of the func
 ## Built with
 * [Visual Studio Code](https://code.visualstudio.com/) for source code editing
 * [PlatformIO IDE](https://platformio.org/platformio-ide) for Arduino programming
+* [KiCad](http://kicad-pcb.org/) for planning schematic for example
 * [StackEdit](https://stackedit.io/) for writing the readme
